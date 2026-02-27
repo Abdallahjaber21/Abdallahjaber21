@@ -17,8 +17,11 @@ I focus on performance optimization, including database tuning and caching strat
 💻 Tech Stack & Tools
 
 Backend: Laravel , Yii2 , PHP , Node.js 
+
 Frontend: Next.js , TypeScript , Tailwind CSS , Zustand , TanStack Query , React 
+
 Cloud & DevOps: AWS , GCP , Azure , Docker , Terraform , Github Actions , Kubernetes 
+
 Databases: MySQL , Redis , MongoDB 
 
 🌟 Highlighted Engineering Experience
